@@ -1,0 +1,24 @@
+{
+    "name": "fahmiardi/colors-of-image",
+    "description": "Color utility class for PHP 5.3 that allows for easy conversion between RGB, HSV, XYZ, and Lab colorspaces, as well as color comparison",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "Color": ""
+        }
+    },
+    "require": {
+        "php": "~5.3"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1-dev"
+        }
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/fahmiardi/Colors-Of-Image.git"
+        }
+    ]
+}
